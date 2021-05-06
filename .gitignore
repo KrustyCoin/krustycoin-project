@@ -1,0 +1,34 @@
+src/*.exe
+src/krustycoin
+src/krustycoind
+src/test_krustycoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.krustycoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+krustycoin-qt
+KrustyCoin-Qt.app
+
+# Unit-tests
+Makefile.test
+krustycoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
