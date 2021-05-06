@@ -4,15 +4,16 @@ KrustyCoin integration/staging tree
 http://www.krustycoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 KrustyCoin Developers
+Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2021-Now KrustyCoin Developers
 
 What is KrustyCoin?
 ----------------
 
 KrustyCoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
+ - 4.2 minute block targets
  - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ - ~6.9420 million total coins
 
 The rest is the same as Bitcoin.
  - 50 coins per block
