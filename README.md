@@ -11,13 +11,13 @@ What is KrustyCoin?
 ----------------
 
 KrustyCoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 4.2 minute block targets
- - subsidy halves in 840k blocks (~4 years)
+ - 2.4 minute block targets
+ - subsidy halves in 69.42k blocks (~1/3 of a year)
  - ~6.9420 million total coins
+ - 2365 blocks to retarget difficulty
 
-The rest is the same as Bitcoin.
+Similarities to Bitcoin and Litecoin:
  - 50 coins per block
- - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
 the KrustyCoin client sofware, see http://www.krustycoin.org.
